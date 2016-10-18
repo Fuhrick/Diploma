@@ -1,0 +1,55 @@
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Diploma 1.0 (FixedIdentity).dll.config
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Diploma 1.0 (FixedIdentity).dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Diploma 1.0 (FixedIdentity).pdb
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Antlr3.Runtime.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\EntityFramework.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\EntityFramework.SqlServer.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Google.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Web.Infrastructure.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Newtonsoft.Json.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Owin.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Helpers.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Mvc.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Optimization.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Razor.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.WebPages.Deployment.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.WebPages.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.WebPages.Razor.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\WebGrease.dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Helpers.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Mvc.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Optimization.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.Razor.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.WebPages.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.WebPages.Deployment.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\System.Web.WebPages.Razor.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Antlr3.Runtime.pdb
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Newtonsoft.Json.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\EntityFramework.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\EntityFramework.SqlServer.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Google.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\obj\Debug\Diploma 1.0 (FixedIdentity).csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\obj\Debug\Diploma 1.0 (FixedIdentity).dll
+c:\users\артем\documents\visual studio 2013\Projects\Diploma 1.0 (FixedIdentity)\Diploma 1.0 (FixedIdentity)\obj\Debug\Diploma 1.0 (FixedIdentity).pdb
